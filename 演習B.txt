@@ -4,4 +4,3 @@
 aaaaa
 bbbbb
 ccccc
-ファイルを削除
