@@ -3,5 +3,9 @@ abcdefg
 
 
 ・ファイル単位
+A
+B
+C
+D
 ・Hunk単位
 ・1行単位
