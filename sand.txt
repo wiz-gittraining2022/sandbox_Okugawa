@@ -8,4 +8,8 @@ B
 C
 D
 ・Hunk単位
+E
+F
+G
+H
 ・1行単位
